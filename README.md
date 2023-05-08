@@ -21,7 +21,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-<p align="center">![connect-with-me.png](./connect-with-me.png.png)</p>
+![connect-with-me.png](./connect-with-me.png.png)
 
 
 <p align="center">

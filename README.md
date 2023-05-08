@@ -33,4 +33,3 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 [linkedin]: https://www.linkedin.com/in/saurabh-bane-62aa87275/
 [github]:https://github.com/SAURABHBANE0212
-[gmail]:mailto: saurabhbane1972@gmail.com

@@ -21,7 +21,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-bane-62aa87275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-bane-62aa87275/" height="30" width="40" /></a>
 </p>
 
